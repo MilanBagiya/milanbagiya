@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertthesamael&label=Profile%20views&color=0e75b6&style=flat" alt="mertthesamael" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning ICP Development<br>📝 I regularly write articles on https://medium.com/@bagiyamilan5720<br>📫 How to reach me bagiyamilan5720@gmail.com<br>⚡ And also I love cats. A lot.
-
+🌱 I’m currently diving into web development.<br>
+📝 I regularly write articles on [Medium](https://medium.com/@bagiyamilan5720).<br>
+📫 How to reach me: bagiyamilan5720@gmail.com<br>
+⚡ And also, I'm a passionate code lover!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milan_bagiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-bagiya-6ab230215?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BvNFL7f7YR%2FyQWaRh4W%2FZ%2Bw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mertenercan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18589341) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/evilmerto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akamerto) 
